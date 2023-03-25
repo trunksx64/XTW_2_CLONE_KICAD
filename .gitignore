@@ -7,8 +7,8 @@
 *.bck
 *.kicad_pcb-bak
 *.sch-bak
+*.kicad_wks
 *~
-*xDNA
 
 _autosave-*
 *.tmp
