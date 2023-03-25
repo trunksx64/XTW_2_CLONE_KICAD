@@ -1,4 +1,4 @@
-# Game//Cat ::: Revisión R3 :: Versión 3.50
+# XTW2 Clone ::: Revisión R1 :: Versión 1.20
 
 ![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/front.png)
 
