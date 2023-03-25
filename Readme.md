@@ -1,7 +1,7 @@
 # XTW2 Clone ::: Revisión R1 :: Versión 1.20
 
-![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/front.png)
 ![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/pcb_front.png)
+![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/front.png)
 
 ## Razón de Ser e Inspiración
 
@@ -28,7 +28,7 @@ Se tomó un tamaño similar al Original, agregando algunos componentes para usar
 * STM32F103C8T6:
 
 	* ARM®32-bit Cortex®-M3 CPU Core 
-	* 72 MHz maximum frequency,1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory access
+	** 72 MHz maximum frequency,1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory access
 	* Single-cycle multiplication and hardware division
 	
 	* Memories 
