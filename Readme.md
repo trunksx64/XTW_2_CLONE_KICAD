@@ -12,6 +12,8 @@ Este pequeño stick se diseñó como una prueba de aprendizaje para el uso de lo
 
 ## Características Específicas
 
+Se tomó un tamaño similar al Original, agregando algunos componentes para usarlo en Debug mediante STM32CubeIDE, distribuyendo un poco mejor los componentes y usando tamaños más comerciales como sencillos de soldar.
+
 ## Microcontrolador
 
 * Architecture 32-bit.
