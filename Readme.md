@@ -83,6 +83,7 @@ Se tomó un tamaño similar al Original, agregando algunos componentes para usar
 * 2023 : 1.0.0 : Primera Versión.
 * 2023 : 1.0.0 : Diseño de Liberias para Modelo 3D del Socket ZIF.
 * 2023 : 1.2.0 : Se Agrego Boton de Reset, Pin SWO para Debug, Dos Testpoint para UART.
+* 2023 : 1.2.1 : Se Corrigieron algunos Errores y se agrago un Segundo LED de Busy.
 
 ## ERRATAS
 
