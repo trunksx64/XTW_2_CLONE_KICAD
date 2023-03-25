@@ -1,4 +1,4 @@
-# XTW2 Clone ::: Revisión R1 :: Versión 1.20
+# XTW2 Clone ::: Revisión R1 :: Versión 1.2.1
 
 ![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/pcb_front.png)
 ![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/front.png)
