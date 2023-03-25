@@ -14,7 +14,7 @@ Aún están en desarrollo por mi parte, falta de tiempo en realidad, se espera e
   * Microcontrolador STM32F103C8T6.
   * Base ZIF de 16pines, similar de la Marca 3M.
   * Puerto USB 2.0 Macho tipo A.
-  * Pinhead de 78 pines para Programamcion y Debug ST-LINK.
+  * Pinhead de 5 pines para Programamcion y Debug ST-LINK.
   * Testpoint para Puerto UART Basico.
   * Boton de Reset.
 
