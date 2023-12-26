@@ -1,7 +1,7 @@
 # XTW2 Clone ::: Revisión R1 :: Versión 1.2.1
 
-![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/pcb_front.png)
-![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/front.png)
+![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/master/Images/pcb_front.png)
+![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/master/Images/front.png)
 
 ## Razón de Ser e Inspiración
 
@@ -95,6 +95,6 @@ xDNA Electronics & Desing es una microempresa Personal, que se dedica y encarga 
 
 ## Licencia
 
-![](https://github.com/trunksx64/GAME_CAT_R3_KICAD/blob/main/Images/creative_commons.png)
+![](https://github.com/trunksx64/GAME_CAT_R3_KICAD/blob/master/Images/creative_commons.png)
 
 Licensed under Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
